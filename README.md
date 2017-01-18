@@ -10,9 +10,10 @@ Extrapolate what info you may want to do based on your work.
 50. Benefit estimator
 60. Free screen region (cutout occupied)
 
-SELECTION out from pointer
+Selection out from pointer
 How to include region:
 - selected+point
 - selection from point, inclusive/exclusive
 
-
+#investigate
+- crate.io for scalable SQL DB
