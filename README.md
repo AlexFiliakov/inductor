@@ -8,5 +8,11 @@ Extrapolate what info you may want to do based on your work.
 30. Open application
 40. Task prioritization
 50. Benefit estimator
-60. 
+60. Free screen region (cutout occupied)
+
+SELECTION out from pointer
+How to include region:
+- selected+point
+- selection from point, inclusive/exclusive
+
 
