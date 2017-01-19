@@ -1,5 +1,5 @@
 # inductor
-Extrapolate what info you may want to do based on your work.
+Extrapolate what info you may need based on your work.
 
 # todo
 10. Screen scrape
