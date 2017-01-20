@@ -3,6 +3,7 @@ Extrapolate what info you may need based on your work.
 
 # todo
 10. Screen scrape
+15. Figure out a very strict nondisclose/confidentiality Privacy Policy + certification
 20. Screen overlay
 25. Extrapolate scrape to film recognition
 30. Open application
