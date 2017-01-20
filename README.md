@@ -15,7 +15,7 @@ How to include region:
 - selected+point
 - selection from point, inclusive/exclusive
 
-AR integration
+#AR integration
 
 10. image recognition for a screen
 
