@@ -19,7 +19,7 @@ How to include region:
 
 10. image recognition for a screen
 
-20. spit out existing base
+20. spit out existing base over the screen
 
 30. breadth: algos for non-screen (RL)
 
