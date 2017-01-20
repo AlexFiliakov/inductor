@@ -15,5 +15,13 @@ How to include region:
 - selected+point
 - selection from point, inclusive/exclusive
 
+AR integration
+10. image recognition for a screen
+20. spit out existing base
+30. breadth: algos for non-screen (RL)
+- find VR/AR coder to implement
+
 #investigate
 - crate.io for scalable SQL DB
+- AR devices (or Rift + GoPro) <-- let someone else handle
+-- revisit on AR/VR uptake (avoid Glass 2.0)
